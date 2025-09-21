@@ -3,6 +3,5 @@ numpy
 matplotlib
 seaborn
 scipy
-math
 random
 os
